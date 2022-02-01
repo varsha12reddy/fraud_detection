@@ -1,0 +1,1 @@
+print("initial steps of the project - clea and process data")
